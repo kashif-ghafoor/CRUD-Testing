@@ -1,0 +1,21 @@
+{
+  "name": "crud-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashif-ghafoor/CRUD-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashif-ghafoor/CRUD-Testing/issues"
+  },
+  "homepage": "https://github.com/kashif-ghafoor/CRUD-Testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
