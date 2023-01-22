@@ -2,7 +2,7 @@ name: Playwright Tests
 on:
   pull_request:
     types: [opened, synchronize, reopened]
-    branches: [main, master]
+    branches: [main]
 jobs:
   test:
     timeout-minutes: 60
